@@ -6,6 +6,7 @@ Continous use of automated message sending is against Whatsapp's policy,hence do
 
 # Instructions
 1. Install selenium webdriver
+
 ```
 sudo pip install selenium
 ```
